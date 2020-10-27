@@ -1,0 +1,20 @@
+{
+    "Author": "Daniel Grenemark",
+    "ContentSize": 4563,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/generate-azure-automation-schedules(s)/master/GenerateAzureAutomationSchedules.ps1",
+    "DownloadCount": 918,
+    "Id": "Generate-Azure-Automation-1dab9193",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 542,
+    "RaterCount": 2,
+    "Rating": 3.5,
+    "ReleaseDate": "2014-11-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "A script to generate Azure Automation Schedule assets and dynamically generate Schedule description based on the segment of the desired schedule interval.",
+    "Title": "Generate Azure Automation Schedules(s)",
+    "UpdatedDate": "2014-11-27T00:00:00",
+    "Url": "https://github.com/azureautomation/generate-azure-automation-schedules(s)",
+    "UserTags": "Powershell, Azure Automation"
+}
